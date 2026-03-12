@@ -10,7 +10,7 @@ termux-setup-storage
 
 git clone https://github.com/anonym793/Encrypted_Python_code.git
 
-cd Encrypted_Python_code‌‌
+cd Encrypted_Python_code
 
 ls‌‌ ‌‌
 
